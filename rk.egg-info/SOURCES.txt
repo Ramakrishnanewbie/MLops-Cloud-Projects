@@ -1,8 +1,0 @@
-README.md
-setup.py
-rk.egg-info/PKG-INFO
-rk.egg-info/SOURCES.txt
-rk.egg-info/dependency_links.txt
-rk.egg-info/requires.txt
-rk.egg-info/top_level.txt
-src/__init__.py
