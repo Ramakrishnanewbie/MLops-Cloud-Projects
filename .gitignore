@@ -22,9 +22,9 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
-rk.egg-info/
+*.egg-info/
 .installed.cfg
-rk.egg
+*.egg
 MANIFEST
 
 # PyInstaller
@@ -102,10 +102,10 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.venv
 .env
-.mlops
 env/
-mlops/
+venv/
 ENV/
 env.bak/
 venv.bak/
