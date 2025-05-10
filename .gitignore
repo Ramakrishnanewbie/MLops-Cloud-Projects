@@ -22,9 +22,9 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
-*.egg-info/
+rk.egg-info/
 .installed.cfg
-*.egg
+rk.egg
 MANIFEST
 
 # PyInstaller
